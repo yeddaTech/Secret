@@ -1,4 +1,4 @@
-THIS IS HUMAN BODY PROJECT\n
+THIS IS HUMAN BODY PROJECT
 it will take you a lot of time to comprehend how this works and how you will be able to make it work but
 
 
